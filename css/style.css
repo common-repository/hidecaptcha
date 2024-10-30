@@ -1,0 +1,7 @@
+div.grecaptcha-badge {
+	width:0 !important;
+}
+
+div.grecaptcha-badge.show {
+	width:256px !important; 
+}
